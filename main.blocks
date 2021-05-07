@@ -120,20 +120,20 @@ eeee2eeeeffffffffffffffffffffffffeeffffeeeeeeeeee22eeeee222ee2222ee2222222222222
 222222e2ebbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbe2e222222
 222222eeebbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbeee222222
 `</field><data>{"commentRefs":[],"fieldData":{"img":"-,pTUvvcqqbdclOkUwg6"}}</data></shadow></value><next><block type="variables_set" id="i^o(TjzdYnUVgD7Y]u?I"><field name="VAR" id="OrO$qN/ZJtQ2hdRNU](a">mySprite</field><value name="VALUE"><shadow xmlns="http://www.w3.org/1999/xhtml" type="math_number"><field name="NUM">0</field></shadow><block type="spritescreate" id="C6ms-l$AK--1CX,!kw:I"><value name="img"><shadow type="screen_image_picker" id="V*T]^RQDF,[nId:}n36t"><field name="img">img`
-. . . . . . . . . . b 5 b . . . 
-. . . . . . . . . b 5 b . . . . 
+. . . . . . . . . . b 2 b . . . 
+. . . . . . . . . b 2 b . . . . 
 . . . . . . b b b b b b . . . . 
-. . . . . b b 5 5 5 5 5 b . . . 
-. . . . b b 5 d 1 f 5 d 4 c . . 
-. . . . b 5 5 1 f f d d 4 4 4 b 
-. . . . b 5 5 d f b 4 4 4 4 b . 
-. . . b d 5 5 5 5 4 4 4 4 b . . 
-. . b d d 5 5 5 5 5 5 5 5 b . . 
-. b d d d d 5 5 5 5 5 5 5 5 b . 
-b d d d b b b 5 5 5 5 5 5 5 b . 
-c d d b 5 5 d c 5 5 5 5 5 5 b . 
-c b b d 5 d c d 5 5 5 5 5 5 b . 
-. b 5 5 b c d d 5 5 5 5 5 d b . 
-b b c c c d d d d 5 5 5 b b . . 
+. . . . . b b 2 2 2 2 2 b . . . 
+. . . . b b 2 d 1 f 2 d 4 c . . 
+. . . . b 2 2 1 f f d d 4 4 4 b 
+. . . . b 2 2 d f b 4 4 4 4 b . 
+. . . b d 2 2 2 2 4 4 4 4 b . . 
+. . b d d 2 2 2 2 2 2 2 2 b . . 
+. b d d d d 2 2 2 2 2 2 2 2 b . 
+b d d d b b b 2 2 2 2 2 2 2 b . 
+c d d b 2 2 d c 2 2 2 2 2 2 b . 
+c b b d 2 d c d 2 2 2 2 2 2 b . 
+. b 2 2 b c d d 2 2 2 2 2 d b . 
+b b c c c d d d d 2 2 2 b b . . 
 . . . c c c c c c c c b b . . . 
 `</field><data>{"commentRefs":[],"fieldData":{"img":"V*T]^RQDF,[nId:}n36t"}}</data></shadow></value><value name="kind"><shadow type="spritekind" id="#:Szre?s44{6Vi^~p,%4"><field name="MEMBER">Player</field></shadow></value></block></value></block></next></block></next></block></statement></block></xml>
